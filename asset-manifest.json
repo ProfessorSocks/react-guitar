@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-guitarwebsite/static/css/main.6786a91a.css",
+    "main.js": "/react-guitarwebsite/static/js/main.d3f50375.js",
+    "static/js/787.b0e27324.chunk.js": "/react-guitarwebsite/static/js/787.b0e27324.chunk.js",
+    "static/media/logo.svg": "/react-guitarwebsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-guitarwebsite/index.html",
+    "main.6786a91a.css.map": "/react-guitarwebsite/static/css/main.6786a91a.css.map",
+    "main.d3f50375.js.map": "/react-guitarwebsite/static/js/main.d3f50375.js.map",
+    "787.b0e27324.chunk.js.map": "/react-guitarwebsite/static/js/787.b0e27324.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6786a91a.css",
+    "static/js/main.d3f50375.js"
+  ]
+}
