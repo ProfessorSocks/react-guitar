@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ProfessorSocks/react-guitar/static/css/main.6786a91a.css",
-    "main.js": "/ProfessorSocks/react-guitar/static/js/main.c63f15c7.js",
-    "static/js/787.b0e27324.chunk.js": "/ProfessorSocks/react-guitar/static/js/787.b0e27324.chunk.js",
-    "static/media/logo.svg": "/ProfessorSocks/react-guitar/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/ProfessorSocks/react-guitar/index.html",
-    "main.6786a91a.css.map": "/ProfessorSocks/react-guitar/static/css/main.6786a91a.css.map",
-    "main.c63f15c7.js.map": "/ProfessorSocks/react-guitar/static/js/main.c63f15c7.js.map",
-    "787.b0e27324.chunk.js.map": "/ProfessorSocks/react-guitar/static/js/787.b0e27324.chunk.js.map"
+    "main.css": "/react-guitar/static/css/main.6786a91a.css",
+    "main.js": "/react-guitar/static/js/main.b9a93497.js",
+    "static/js/787.b0e27324.chunk.js": "/react-guitar/static/js/787.b0e27324.chunk.js",
+    "static/media/logo.svg": "/react-guitar/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-guitar/index.html",
+    "main.6786a91a.css.map": "/react-guitar/static/css/main.6786a91a.css.map",
+    "main.b9a93497.js.map": "/react-guitar/static/js/main.b9a93497.js.map",
+    "787.b0e27324.chunk.js.map": "/react-guitar/static/js/787.b0e27324.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6786a91a.css",
-    "static/js/main.c63f15c7.js"
+    "static/js/main.b9a93497.js"
   ]
 }
